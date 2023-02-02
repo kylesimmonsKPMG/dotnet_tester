@@ -37,10 +37,11 @@ Pull requests can have "required reviews", which need a specific number of "Appr
 
 <img width="611" alt="PullRequestMerge" src="https://user-images.githubusercontent.com/123562599/216447456-d5b0ff94-1e26-4bd1-8b89-2ad35180d0eb.png">
 
-The administrator whose reviews are needed can 
+The administrator whose reviews are needed can: 
  - Comment: leaving general feedback without specific approval
  - Approve: Submit feedback and approve merging these changes
  - Request Changes: Submit feedback that must be addressed before merging
+
 Further information about approving Pull Requests can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/approving-a-pull-request-with-required-reviews).
 
 ![image](https://user-images.githubusercontent.com/123562599/216451795-62dc666b-c449-4eac-ac27-a4edf65dc7bc.png)
