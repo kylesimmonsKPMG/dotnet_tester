@@ -5,9 +5,6 @@ This document includes instructions on best practices to follow when using the <
 
 ## Table of Contents
 
-- [Code of Conduct](#code-of-conduct)
-- [Suggesting Enhancements](#suggesting-enhancements)
-- [Improving The Documentation](#improving-the-documentation)
 - [Identity and Access Management](#identity-and-access-management)
 - [Security Tools](#security)
 - [Coding](#coding)
