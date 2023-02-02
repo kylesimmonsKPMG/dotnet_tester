@@ -7,7 +7,7 @@ This document includes instructions on best practices to follow when using the <
 
 - [Identity and Access Management](#identity-and-access-management)
 - [Security Tools](#security)
-- [Coding](#coding)
+- [Code Alterations](#code-alterations)
 - [Communication](#communication)
 
 
@@ -29,7 +29,7 @@ This document includes instructions on best practices to follow when using the <
   - **Maintain Audit trails** of all changes to repositories
   - **Only utilize <Company Name> Actions** inside code to prevent supply chain vulnerabilities
   
-### Coding
+### Code Alterations
   - **Perform code checks** prior to committing code to the main branch
   - **Branch and test your code often**, and commit once.
   - **Use GitHub Secrets** to encrypt and prevent secrets, authentication tokens, and other credentials being stored in plaintext.
