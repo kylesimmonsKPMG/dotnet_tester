@@ -4,7 +4,9 @@ This document includes instructions on best practices and recommendations to fol
 
 
 ## Table of Contents
-- 
+- [Commit Guide](#commit)
+- [Pull Request Guide](#pull-request)
+- [Branching Guide](#branching)
 - [Identity and Access Management](#identity-and-access-management)
 - [Security Tools](#security)
 - [Code Alterations](#code-alterations)
@@ -63,7 +65,7 @@ More information on Branch Protection Rules can be found [here](https://docs.git
 
 
 
-## Best Practices
+## General Best Practices
 
 ### Identity and Access Management
   - **Use a CODEOWNERS file** to define individuals or teams that are responsible for code in a repository.
