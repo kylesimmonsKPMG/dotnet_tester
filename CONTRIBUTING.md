@@ -1,10 +1,9 @@
 # **Company Name** CONTRIBUTING.md
 
-This document includes instructions on best practices to follow when using the **Company Name** GitHub account. These instructions are separated by subject matter. See the [Table of Contents](#table-of-contents) for different sections of best practice. Please make sure to read the relevant sections before making contributions, both for security and for efficiency purposes. 
+This document includes instructions on best practices and recommendations to follow when using the **Company Name** GitHub account. These instructions are separated by subject matter. For the repository owner, contribution guidelines explain how people should make contributions to the repository. For contributors, the guidelines help verify that they're submitting well-formed pull requests and opening useful issues. For both, contribution guidelines save time and hassle caused by improperly created pull requests or issues that have to be rejected and re-submitted. See the [Table of Contents](#table-of-contents) for different sections of best practice. Please make sure to read the relevant sections before making contributions, both for security and for efficiency purposes. 
 
 
 ## Table of Contents
-
 - [Identity and Access Management](#identity-and-access-management)
 - [Security Tools](#security)
 - [Code Alterations](#code-alterations)
