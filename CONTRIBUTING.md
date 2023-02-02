@@ -31,13 +31,11 @@ A pull request is a request to merge one or more commits into a different branch
 
 <img width="673" alt="PullRequest" src="https://user-images.githubusercontent.com/123562599/216445549-53850274-15cc-4d9a-920f-6543b6a59dd6.png">
 
-### Pull Request-Merge Formatting
-
 Pull requests can have "required reviews", which need a specific number of "Approve" reviews from people with write or admin permissions in the repository before they can be merged. For those with elevated permissions in the organization, pull requests can be seen in the "Pull requests" Tab. Code scanning using CodeQL should be done at this phase as well, and passed or failed checks are visible in this menu. 
 
 <img width="611" alt="PullRequestMerge" src="https://user-images.githubusercontent.com/123562599/216447456-d5b0ff94-1e26-4bd1-8b89-2ad35180d0eb.png">
 
-The administrator whose reviews are needed can 
+The administrator whose reviews are needed to approve the pull request can:
  - Comment: leaving general feedback without specific approval
  - Approve: Submit feedback and approve merging these changes
  - Request Changes: Submit feedback that must be addressed before merging
@@ -45,6 +43,7 @@ Further information about approving Pull Requests can be found [here](https://do
 
 ![image](https://user-images.githubusercontent.com/123562599/216451795-62dc666b-c449-4eac-ac27-a4edf65dc7bc.png)
 
+Once the pull request has received the required approvals, the change can be merged with another branch. The pull request can be closed at any time, discarding all changes made, unless recovered.
 
 ### Branching
 
