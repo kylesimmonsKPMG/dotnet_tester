@@ -9,8 +9,10 @@ This document includes instructions on best practices to follow when using the <
 - [Suggesting Enhancements](#suggesting-enhancements)
 - [Your First Code Contribution](#your-first-code-contribution)
 - [Improving The Documentation](#improving-the-documentation)
-- [Identity and Access Management]
+- [Identity and Access Management](#identity-and-access-management)
 - [Security Tools](#Security)
+- [Coding](#coding)
+- [Communication](#communication)
 - [Styleguides](#styleguides)
 - [Commit Messages](#commit-messages)
 - [Join The Project Team](#join-the-project-team)
