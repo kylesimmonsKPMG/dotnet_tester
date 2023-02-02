@@ -1,4 +1,4 @@
-# <Company Name> CONTRIBUTING.md
+# /<Company Name/> CONTRIBUTING.md
 
 This document includes instructions on best practices to follow when using the <Company Name> GitHub account. These instructions are separated by subject matter. See the [Table of Contents](#table-of-contents) for different sections of best practice. Please make sure to read the relevant sections before making contributions, both for security and for efficiency purposes. 
 
