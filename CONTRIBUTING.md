@@ -27,7 +27,7 @@ A commit is a discrete change to one or more files that you have write permissio
 <img width="878" alt="image" src="https://user-images.githubusercontent.com/123562599/216442741-3b9ff3e3-2bf2-4b6d-b4a6-2cf827fd3bf0.png">
 
 ### Pull Request Formatting 
-A pull request is a request to merge one or more commits into a different branch, "pulling" from a local repository into the remote repository. 
+A pull request is a request to merge one or more commits into a different branch, "pulling" from a local repository into the remote repository. When a commit is made, a pull request for that code is automatically 
 ### Branching
 
 
