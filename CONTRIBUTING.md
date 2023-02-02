@@ -1,6 +1,6 @@
-# /<Company Name/> CONTRIBUTING.md
+# **Company Name** CONTRIBUTING.md
 
-This document includes instructions on best practices to follow when using the <Company Name> GitHub account. These instructions are separated by subject matter. See the [Table of Contents](#table-of-contents) for different sections of best practice. Please make sure to read the relevant sections before making contributions, both for security and for efficiency purposes. 
+This document includes instructions on best practices to follow when using the **Company Name** GitHub account. These instructions are separated by subject matter. See the [Table of Contents](#table-of-contents) for different sections of best practice. Please make sure to read the relevant sections before making contributions, both for security and for efficiency purposes. 
 
 
 ## Table of Contents
@@ -27,7 +27,7 @@ This document includes instructions on best practices to follow when using the <
   - **Monitor dependencies** for your project using GitHub Dependency Graph and Dependency Review
   - **Enable Dependabot** to inform you of any security vulnerabilities in your dependencies
   - **Maintain Audit trails** of all changes to repositories
-  - **Only utilize <Company Name> Actions** inside code to prevent supply chain vulnerabilities
+  - **Only utilize **Company Name** Actions** inside code to prevent supply chain vulnerabilities
   
 ### Code Alterations
   - **Perform code checks** prior to committing code to the main branch
