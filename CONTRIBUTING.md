@@ -24,7 +24,7 @@ Here are some resources to help you get started with GitHub contributions:
 ## Getting started
 
 ### Commit
-A commit is a discrete change to one or more files that you have write permissions to. These changes are recorded in the local repository. Commits should be made only after testing the code. Make small changes and commit the code often to a branch. Include short, detailed descriptions in the "Update" box of the changes made, and give the update title a distinctive name. This will launch a pull request to the code owner or administrator, who will decide whether or not to approve the change.
+A commit is a discrete change to one or more files that you have write permissions to. These changes are recorded in the local repository. **Company Name** policy is that commits should be made only after testing the code. Make small changes and commit the code often to a branch. Include short, detailed descriptions in the "Update" box of the changes made, and give the update title a distinctive name. This will launch a pull request to the code owner or administrator, who will decide whether or not to approve the change.
 
 <img width="878" alt="image" src="https://user-images.githubusercontent.com/123562599/216442741-3b9ff3e3-2bf2-4b6d-b4a6-2cf827fd3bf0.png">
 
@@ -33,7 +33,7 @@ A pull request is a request to merge one or more commits into a different branch
 
 <img width="673" alt="PullRequest" src="https://user-images.githubusercontent.com/123562599/216445549-53850274-15cc-4d9a-920f-6543b6a59dd6.png">
 
-Pull requests can have "required reviews", which need a specific number of "Approve" reviews from people with write or admin permissions in the repository before they can be merged. For those with elevated permissions in the organization, pull requests can be seen in the "Pull requests" Tab. Code scanning using CodeQL should be done at this phase as well, and passed or failed checks are visible in this menu. 
+**Company Name** has enabled "required reviews", which need a specific number of "Approve" reviews from people with write or admin permissions in the repository before they can be merged. For those with elevated permissions in the organization, pull requests can be seen in the "Pull requests" Tab. Code scanning using CodeQL should be done at this phase as well, and passed or failed checks are visible in this menu. 
 
 <img width="611" alt="PullRequestMerge" src="https://user-images.githubusercontent.com/123562599/216447456-d5b0ff94-1e26-4bd1-8b89-2ad35180d0eb.png">
 
